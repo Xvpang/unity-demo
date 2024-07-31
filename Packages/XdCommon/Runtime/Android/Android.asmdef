@@ -1,0 +1,11 @@
+﻿{
+  "name": "XdCommon",
+  "includePlatforms": [
+    "Android"
+  ],
+  "references": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

@@ -1,0 +1,11 @@
+﻿{
+  "name": "XdCommon",
+  "includePlatforms": [
+    "iOS"
+  ],
+  "references": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

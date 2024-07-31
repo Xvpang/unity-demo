@@ -1,0 +1,12 @@
+﻿{
+  "name": "XdCommon",
+  "includePlatforms": [
+    "Windows",
+    "MacOS"
+  ],
+  "references": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
